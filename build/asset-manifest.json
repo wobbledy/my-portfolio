@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.df4e421d.css",
+    "main.js": "/react-portfolio/static/js/main.1b10d2e9.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/profilePic.jpg": "/react-portfolio/static/media/profilePic.0e5d429945f294bb2f7d.jpg",
+    "static/media/motivateme.jpg": "/react-portfolio/static/media/motivateme.b4b241b6c81f1572e675.jpg",
+    "static/media/ecommerce.jpg": "/react-portfolio/static/media/ecommerce.e05c7b2acc6ed58f1f74.jpg",
+    "static/media/employee.jpg": "/react-portfolio/static/media/employee.4b186940ec0babe002be.jpg",
+    "static/media/social.jpg": "/react-portfolio/static/media/social.ab4a3e672773a2dc0383.jpg",
+    "static/media/notetaker.jpg": "/react-portfolio/static/media/notetaker.3db73062971aa589eac6.jpg",
+    "static/media/budgetPlanner.jpg": "/react-portfolio/static/media/budgetPlanner.18561097121e5d885e5a.jpg",
+    "static/media/jate.jpg": "/react-portfolio/static/media/jate.f9a3d37512abde6b13a6.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.df4e421d.css.map": "/react-portfolio/static/css/main.df4e421d.css.map",
+    "main.1b10d2e9.js.map": "/react-portfolio/static/js/main.1b10d2e9.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df4e421d.css",
+    "static/js/main.1b10d2e9.js"
+  ]
+}
