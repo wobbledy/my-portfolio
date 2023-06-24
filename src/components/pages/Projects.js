@@ -9,6 +9,7 @@ import weather from '../../imgs/weather.jpg';
 import schedule from '../../imgs/schedule.jpg';
 import employee from '../../imgs/employee.jpg';
 import social from '../../imgs/social.jpg';
+import inkWatch from "../../imgs/inkWatch.jpg"
 
 const PortfolioContainer = styled.div`
   display: grid;
@@ -61,7 +62,7 @@ export default function PortfolioPage() {
     { title: 'Work Day Scheduler', image: schedule, link: 'https://wobbledy.github.io/work-day-scheduler/' },
     { title: 'Employee Tracker CLI', image: employee, link: 'https://github.com/wobbledy/employee-tracker' },
     { title: 'Social Network API', image: social, link: 'https://github.com/wobbledy/social-network-api'},
-    { title: 'Ink Watch', link: 'https://ink-watch.herokuapp.com/'},
+    { title: 'Ink Watch', image: inkWatch, link: 'https://inkwatch.herokuapp.com/'},
   ];
 
   return (
