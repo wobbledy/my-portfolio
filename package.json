@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://wobbledy.github.io/react-portfolio",
+  "homepage": "https://wobbledy.github.io/my-portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -17,10 +17,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run start",
-    "deploy": "gh-pages -d start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts start"
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
